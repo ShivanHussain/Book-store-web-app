@@ -26,13 +26,6 @@ app.use("/favorate",favorateRoute);
 app.use("/cart", cartRoute);
 app.use("/order", orderRoute);
 
-
-
-
-
-app.get("/",(req, res)=>{
-    res.send("hello backend");
-});
 app.listen(port,()=>{
     console.log(`server is listen port ${port}`);
 });
