@@ -1,1 +1,2 @@
 
+The Book Store Web App is a full-stack application designed to facilitate seamless browsing and management of books online. Built using technologies like React (frontend), Node.js/Express (backend), and MongoDB (database), the app supports user authentication, dynamic book search, shopping cart, and order history. Admin users can manage inventory, track sales, and update listings. The app emphasizes responsive design, secure transactions, and a user-friendly interface to enhance the overall shopping experience.
